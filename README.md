@@ -34,4 +34,4 @@ To get the script and bot, visit the following links:
 
 ## Contribution
 
-If you want to contribute to this project, feel free to submit a pull request or open an issue. Any help is welcome!
+If you want to contribute to this project, feel free to make a ticket. Any help is welcome!
