@@ -31,6 +31,7 @@ To get the script and bot, visit the following links:
 
 - LR-Refund Script on Tebex: https://fast-scripts-webshop.tebex.io/category/scripts
 - LR-Refund Discord: https://discord.gg/QHum6pmyWE
+- LR-Refund Discord Bot: https://discord.com/oauth2/authorize?client_id=1282455511823945833
 
 ## Contribution
 
